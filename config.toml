@@ -1,6 +1,6 @@
 baseURL = "http://wongkay.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "KayWong"
 theme = "hermit"
 
 # enableGitInfo = true
