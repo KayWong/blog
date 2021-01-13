@@ -1,6 +1,6 @@
 baseURL = "http://wongkay.com/"
 languageCode = "en-us"
-title = "KayWong"
+title = "KayWong 新站"
 theme = "hermit"
 
 # enableGitInfo = true
