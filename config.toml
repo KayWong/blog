@@ -1,6 +1,6 @@
 baseURL = "http://wongkay.com/"
 languageCode = "en-us"
-title = "KayWong 更新"
+title = "KayWong·木夕力亻"
 theme = "hermit"
 
 # enableGitInfo = true
@@ -36,7 +36,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # images = [""]
   themeColor = "#494f5c"
 
-  homeSubtitle = "A minimal and fast theme for Hugo."
+  homeSubtitle = "如是求真，凭心为人"
   footerCopyright = ' &#183; <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener">粤ICP备14081684号-4</a>'
   bgImg = ""  # Homepage background-image URL
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
