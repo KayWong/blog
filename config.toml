@@ -67,12 +67,18 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     url = "https://github.com/"
 
 [menu]
-
+  [[menu.main]]
+    name = "奇思妙想"
+    url = "ideas/"
+    weight = 10
+  [[menu.main]]
+    name = "数字货币"
+    url = "cryptocurrency/"
+    weight = 10
   [[menu.main]]
     name = "文章"
     url = "posts/"
     weight = 10
-
   [[menu.main]]
     name = "About"
     url = "about-hugo/"
