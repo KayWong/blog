@@ -1,0 +1,43 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>文章 on KayWong·木夕力亻</title>
+		<link>http://wongkay.com/posts/</link>
+		<description>Recent content in 文章 on KayWong·木夕力亻</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Thu, 14 Jan 2021 15:38:54 +0800</lastBuildDate>
+		<atom:link href="http://wongkay.com/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Day One</title>
+			<link>http://wongkay.com/posts/hugo%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A4%A9/</link>
+			<pubDate>Thu, 14 Jan 2021 15:38:54 +0800</pubDate>
+			
+			<guid>http://wongkay.com/posts/hugo%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A4%A9/</guid>
+			<description>离2021年农历新年还有29天。 重新搭建了一个博客，采用了Hugo + GitHub + Webhook 的部署方案。 优点 轻量简单，访问速度比WordPress好不少 Hug</description>
+			<content type="html"><![CDATA[<p>离2021年农历新年还有29天。</p>
+<p>重新搭建了一个博客，采用了<code>Hugo</code> + <code>GitHub</code> + <code>Webhook</code> 的部署方案。</p>
+<h3 id="优点">优点</h3>
+<ul>
+<li>轻量简单，访问速度比WordPress好不少</li>
+<li><code>Hugo</code>和<code>Webhook</code>都是基于Go写的，恰好刚刚入坑Go，对于自己学习提升还是有帮助的</li>
+<li>Markdown的完备支持</li>
+<li>静态<code>.md</code>文件的保存形式方便迁移备份</li>
+</ul>
+<h3 id="缺点">缺点</h3>
+<ul>
+<li>需要一些基本的技术储备，纯小白上手有难度</li>
+<li>功能简单（对于纯写博客来说还是完全够用）</li>
+</ul>
+<h1 id="博客于我">博客于我</h1>
+<p>建站写文章吸引流量赚钱的时代已经过去了，但博客依然是最适合我说话的地方，没有心里包袱，也不需要担心熟人的关注。这次博客的迁移并没有把以前写的东西同步过来，我想和以前作个告别。</p>
+<h1 id="当下">当下</h1>
+<p>2020年是这十年以来最差的一年，也是未来十年里最好的一年。这句话在2019年的时候听到。如今疫情的到来竟然有点一语成箴的味道。我工作所在的公司在这一年多的时间里经历了过山车般的高低起落。团队规模从2019年底的疯狂扩张到2020年的接二连三裁员，疫情大大的影响了营收的数据，内部也经历了一波又一波的调整。不得不说逆境反而让人更加迅速的成长。这不到两年的时间里的收获颇多，不管是在技术上和管理能力上。</p>
+<h1 id="2021">2021</h1>
+<p>计划深入学习Go的开发（选择Hugo的初衷也是这样的原因），彻底的把后端的短板补全。</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
